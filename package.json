@@ -1,0 +1,19 @@
+{
+  "name": "ahzaz-simple-calaulator",
+  "version": "1.0.1",
+  "description": "simple calculator using TypeScript , Node.js and Inquirer",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ahzaz Ahmed",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.20"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
